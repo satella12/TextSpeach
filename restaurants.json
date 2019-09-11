@@ -1,0 +1,74 @@
+{
+  "menu": {
+    "food": {
+      "01": {
+        "name": "Sushi",
+        "price": "IDR 30000",
+        "level": "Hot",
+        "image": "https://i.ibb.co/nmY3fwD/f-sushi.jpg"
+      },
+      "02": {
+        "name": "Spaghetti",
+        "price": "IDR 40000",
+        "level": "Hot",
+        "image": "https://i.ibb.co/jTmM0Gg/f-spaghetti.jpg"
+      },
+      "03": {
+        "name": "Pizza",
+        "price": "IDR 35000",
+        "level": "Extra Hot",
+        "image": "https://i.ibb.co/Ypz53gn/f-pizza.jpg"
+      },
+      "04": {
+        "name": "Chicken Wings",
+        "price": "IDR 50000",
+        "level": "Hot",
+        "image": "https://i.ibb.co/nwhxkYQ/f-chicken-wings.jpg"
+      },
+      "05": {
+        "name": "Beef Steak",
+        "price": "IDR 87000",
+        "level": "None",
+        "image": "https://i.ibb.co/hZRz08s/f-beef-steak.jpg"
+      },
+      "06": {
+        "name": "Bakso",
+        "price": "IDR 32000",
+        "level": "None",
+        "image": "https://i.ibb.co/NKHCfCN/f-basko.jpg"
+      }
+    },
+    "drink": {
+      "01": {
+        "name": "Milk Tea",
+        "image": "https://i.ibb.co/6J9TYcR/d-Milk-Tea.jpg"
+      },
+      "02": {
+        "name": "Milk Shake",
+        "image": "https://i.ibb.co/MBHDppr/d-Milk-Shake.jpg"
+      },
+      "03": {
+        "name": "Ice Drink",
+        "image": "https://i.ibb.co/tYdF7NS/d-Ice-Drink.jpg"
+      },
+      "04": {
+        "name": "Ice Bland",
+        "image": "https://i.ibb.co/ZXyRnP9/d-Ice-Blend.jpg"
+      },
+      "05": {
+        "name": "Fruit Tea",
+        "image": "https://i.ibb.co/HYmLPrW/d-Fruit-Tea.jpg"
+      },
+      "06": {
+        "name": "Falvored Soda",
+        "image": "https://i.ibb.co/q16qvJv/d-Flavoured-Soda.jpg"
+      }
+    }
+  },
+  "admin": {
+    "email": "ridwan.coustic@gmail.com",
+    "name": "ridwan",
+    "pass": "edaneling"
+  }
+  
+}
